@@ -1,0 +1,1 @@
+# Bytecoin.party-Web-Miner
