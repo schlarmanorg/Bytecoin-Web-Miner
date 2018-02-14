@@ -1,4 +1,4 @@
-# Bytecoin.party-Web-Miner
+# Bytecoin-Web-Miner
 
 To install deepMiner simply paste this into your console:
 
